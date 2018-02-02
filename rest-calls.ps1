@@ -4,6 +4,7 @@
 # 
 # Preconditions:
 #  - Install Huawei Demo Simulator
+#     Source: http://support.huawei.com/enterprise/en/tool/storage-simulator-TL1000000114/TV1000000063
 #  - Get the official API to see what commands can be used. 
 #  - Start Simulator and Create Pool 
 #
